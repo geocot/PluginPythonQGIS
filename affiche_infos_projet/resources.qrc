@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/affiche_infos_projet" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
